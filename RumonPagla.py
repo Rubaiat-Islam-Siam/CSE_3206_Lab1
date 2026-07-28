@@ -4,3 +4,5 @@ if 1:
 Rumon = "Pagla"
 if Rumon:
     print("Siam pagla")
+    
+# I fixed it
